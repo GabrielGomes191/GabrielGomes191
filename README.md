@@ -54,5 +54,5 @@ Participo de projetos acadêmicos e pessoais voltados à criação de soluções
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&center=true&vCenter=true&width=435&lines=Obrigado+pela+visita!+;Veja+meus+repositórios+abaixo." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%91%8B;Check+out+my+repos+below!" />
 </p>
