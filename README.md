@@ -33,7 +33,6 @@ Participo de projetos acadêmicos e pessoais voltados à criação de soluções
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielGomes191&show_icons=true&theme=radical" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGomes191&layout=compact&theme=radical" height="180" />
 </p>
 
@@ -49,9 +48,8 @@ Participo de projetos acadêmicos e pessoais voltados à criação de soluções
 
 ### 📫 Contato
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-link)
-- 📧 gabriel.seuemail@email.com
-- 🌐 [Portfólio](https://seusite.com)
+- 💼 [LinkedIn](www.linkedin.com/in/gabriel-gomes191)
+- 📧 gabrielgg@id.uff.br
 
 ---
 
