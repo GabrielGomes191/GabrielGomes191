@@ -1,7 +1,4 @@
-<!-- Banner superior -->
-<p align="center">
-  <img src="https://i.imgur.com/M7Z8DlC.png" alt="Gabriel Gomes - Banner" />
-</p>
+
 
 <h1 align="center">Olá, eu sou o Gabriel</h1>
 
